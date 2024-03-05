@@ -6,7 +6,7 @@
 - test device version: Iphone X(IOS 16.3)
 
 ### Expectation
-- Clicking the DON button on the IOS keyboard, I expected the blur to be triggered by losing focus on the html Input Element.
+- Clicking the DONE button on the IOS keyboard, I expected the blur to be triggered by losing focus on the html Input Element.
 
 ### Result
 - The onBlur event is not fired.
