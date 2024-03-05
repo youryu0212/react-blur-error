@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+    gap: 16px;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.input-wrapper {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.input:focus {
+    border: 1px solid red;
+}
+
+.input {
+    border: 1px solid #535bf2;
+    outline:none;
+    border-radius: 12px;
+    height: 60px;
+    font-size: 24px;
+}
