@@ -1,5 +1,8 @@
 # [Bug] onBlur is not firing in IOS Chrome when trigger done button
 
+### Issue
+https://github.com/facebook/react/issues/28492
+
 ### sample page:
 
 https://youryu0212.github.io/react-blur-error/
